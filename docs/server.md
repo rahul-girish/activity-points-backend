@@ -15,3 +15,4 @@ A normal response would be
     "message": "Server is online"
 }
 ```
+
